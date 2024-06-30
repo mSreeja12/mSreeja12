@@ -5,7 +5,6 @@
 
 - 📫 How to reach me **msreeja137@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/Sreeja%20Mondal/Downloads/Brown%20Modern%20Minimalist%20Graphic%20Designer%20Resume%20(1).pdf](file:///C:/Users/Sreeja%20Mondal/Downloads/Brown%20Modern%20Minimalist%20Graphic%20Designer%20Resume%20(1).pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
