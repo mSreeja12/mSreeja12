@@ -10,6 +10,7 @@
 
 - 📫 How to reach me **msreeja137@gmail.com**
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=msreeja12&show_icons=true&locale=en&layout=compact" alt="msreeja12" /></p>
 
 
 <h3 align="left">Connect with me:</h3>
