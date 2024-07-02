@@ -28,7 +28,7 @@
 
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=msreeja12&show_icons=true&locale=en&bg_color=000000&text_color=FFFFFF&title_color=FFFFFF&icon_color=FFFFFF&ring_color=FFD700" alt="msreeja12" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=msreeja12&show_icons=true&locale=en&bg_color=000000&text_color=FFFFFF&title_color=FFFFFF&icon_color=FFD700&ring_color=FFD700" alt="msreeja12" />
 </p>
 
 <p align="center">
