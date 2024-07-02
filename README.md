@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **msreeja137@gmail.com**
 
-<p><img align="center" style="color: #481E14" src="https://github-readme-streak-stats.herokuapp.com/?user=msreeja12&background=000000&border=FFFFFF&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="msreeja12" /></p>
+<p><img align="center" style="color: #481E14" src="https://github-readme-streak-stats.herokuapp.com/?user=msreeja12&background=000000&border=FFFFFF&stroke=FFFFFF&ring=FFFF00&fire=FFFF00&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="msreeja12" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
