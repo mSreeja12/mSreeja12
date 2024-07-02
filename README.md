@@ -1,9 +1,7 @@
-<script>
-        var typed = new Typed('#element', {
-          strings: ['Hi,', 'I am Sreeja Mondal '],
-          typeSpeed: 50,
-        });
-      </script>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sreeja!;" />
+</h1>
+
 - 🌱 I’m currently learning **Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://msreeja12.github.io/Portfolio/](https://msreeja12.github.io/Portfolio/)
