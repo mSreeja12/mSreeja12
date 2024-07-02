@@ -25,8 +25,8 @@
 
 <img align="right" alt="Coding" width="500" height="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=msreeja12&show_icons=true&locale=en&layout=compact" alt="msreeja12" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=msreeja12&show_icons=true&locale=en&layout=compact" alt="msreeja12" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=msreeja12&show_icons=true&locale=en" alt="msreeja12" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msreeja12&" alt="msreeja12" /></p>
+<p color="red" background-color="black"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msreeja12&" alt="msreeja12" /></p>
