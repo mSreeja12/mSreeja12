@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sreeja Mondal</h1>
 <h3 align="center">Data Science Enthusiast with interest in UI/UX designing</h3>
 
+- 🌱 I’m currently learning **Deep Learning**
+
 - 👨‍💻 All of my projects are available at [https://msreeja12.github.io/Portfolio/](https://msreeja12.github.io/Portfolio/)
 
 - 📫 How to reach me **msreeja137@gmail.com**
 
+- 📄 Know about my experiences [file:///C:/Users/Sreeja%20Mondal/Downloads/Brown%20Modern%20Minimalist%20Graphic%20Designer%20Resume%20(1).pdf](file:///C:/Users/Sreeja%20Mondal/Downloads/Brown%20Modern%20Minimalist%20Graphic%20Designer%20Resume%20(1).pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
