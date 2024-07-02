@@ -35,4 +35,4 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=msreeja12&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=FFFFFF&title_color=FFFFFF&icon_color=FFFFFF" alt="msreeja12" style="width: 700;height: 400" />
     
 </p>
-<img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="coding girl" style="width: 100;height:100" />
+<img align="right" alt="Coding" width="200" height="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" />
