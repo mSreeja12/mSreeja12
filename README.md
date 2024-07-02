@@ -29,4 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=msreeja12&show_icons=true&locale=en" alt="msreeja12" /></p>
 
-<p color: #481E14 background-color="black"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msreeja12&" alt="msreeja12" /></p>
+<p style="color: #481E14"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msreeja12&" alt="msreeja12" /></p>
