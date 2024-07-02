@@ -10,8 +10,7 @@
 
 - 📫 How to reach me **msreeja137@gmail.com**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=msreeja12&show_icons=true&locale=en&layout=compact" alt="msreeja12" /></p>
-
+<p style="color: #481E14"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msreeja12&" alt="msreeja12" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,4 +29,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=msreeja12&show_icons=true&locale=en" alt="msreeja12" /></p>
 
-<p style="color: #481E14"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msreeja12&" alt="msreeja12" /></p>
