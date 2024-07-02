@@ -1,6 +1,9 @@
-<h1 align="center">Hi 👋, I'm Sreeja Mondal</h1>
-<h3 align="center">Data Science Enthusiast with interest in UI/UX designing</h3>
-
+<script>
+        var typed = new Typed('#element', {
+          strings: ['Hi,', 'I am Sreeja Mondal '],
+          typeSpeed: 50,
+        });
+      </script>
 - 🌱 I’m currently learning **Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://msreeja12.github.io/Portfolio/](https://msreeja12.github.io/Portfolio/)
