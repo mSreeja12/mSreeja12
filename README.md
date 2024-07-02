@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=msreeja12&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=FFFFFF&title_color=FFFFFF&icon_color=FFFFFF" alt="msreeja12" style="width: 700;height: 400" />
+    <img align="left" alt="msreeja12" width:"700" height:"400" src="https://github-readme-stats.vercel.app/api/top-langs?username=msreeja12&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=FFFFFF&title_color=FFFFFF&icon_color=FFFFFF" />
     
 </p>
-<img align="right" alt="Coding" width="500" height="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" />
+<img align="right" alt="Coding" width="600" height="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" />
