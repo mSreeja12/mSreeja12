@@ -1,7 +1,7 @@
 <p><img align="center" alt="Coding1" width="1100" height="300" src="https://cdn.dribbble.com/users/143861/screenshots/2951104/immuta_philanthropy_dribbble.gif"></p>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sreeja!;+A+Data+Science+Enthusiast;&color=FFFFFF" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sreeja!;+A+Data+Science+Enthusiast+💻;&color=FFFFFF" />
 </h1>
 
 - 🌱 I’m currently learning **Deep Learning**
