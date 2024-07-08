@@ -32,6 +32,6 @@
 </p>
 <p align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
     <img alt="msreeja12" align="left" style="width: 45%; margin-right: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=msreeja12&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=FFFFFF&title_color=FFFFFF&icon_color=FFFFFF" />
-    <img alt="Coding" align="right" height="252" width="385" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" />
+    <img alt="Coding" align="right" height="251" width="385" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" />
 </p>
 
